@@ -1,0 +1,58 @@
+{
+  "feature_cols": [
+    "month",
+    "day",
+    "day_of_year",
+    "latitude",
+    "longitude",
+    "temperature_2m_max",
+    "temperature_2m_min",
+    "temperature_2m_mean",
+    "apparent_temperature_mean",
+    "relative_humidity_2m_max",
+    "relative_humidity_2m_min",
+    "relative_humidity_2m_mean",
+    "precipitation_sum",
+    "rain_sum",
+    "precipitation_hours",
+    "windspeed_10m_max",
+    "windgusts_10m_max",
+    "shortwave_radiation_sum",
+    "sunshine_duration",
+    "temp_mean_yesterday",
+    "humidity_yesterday"
+  ],
+  "locations": {
+    "Central Delhi (CP)": [
+      28.6315,
+      77.2167
+    ],
+    "Dwarka": [
+      28.5921,
+      77.046
+    ],
+    "Rohini": [
+      28.7041,
+      77.1025
+    ],
+    "Noida": [
+      28.5355,
+      77.391
+    ],
+    "Gurgaon": [
+      28.4595,
+      77.0266
+    ],
+    "Faridabad": [
+      28.4089,
+      77.3178
+    ],
+    "Ghaziabad": [
+      28.6692,
+      77.4538
+    ]
+  },
+  "created": "2026-07-23",
+  "version": "1.0",
+  "description": "Adobe Student Model \u2014 Edge Edition"
+}
